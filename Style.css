@@ -1,7 +1,17 @@
-#typo .inner{
-  font-size: 300px;
+#images p{
+  position: relative;
+  height: 380px;
+  margin-left: 700px;
+}
+h1{
   display: flex;
   justify-content: center;
-  margin-top: 20px;
-  background: darkslateblue;
+}
+#typo .inner {
+  display: flex;
+  justify-content: center;
+}
+#images p strong{
+  opacity: 1;
+  font-size: 220px;
 }
