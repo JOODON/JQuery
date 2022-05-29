@@ -1,0 +1,7 @@
+#typo .inner{
+  font-size: 300px;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  background: darkslateblue;
+}
